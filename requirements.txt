@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+numpy==2.0.2
+mediapipe
+opencv-python
+pillow
+python-dotenv
+azure-cognitiveservices-speech
